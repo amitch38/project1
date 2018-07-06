@@ -1,0 +1,70 @@
+.new {
+    text-align: center;
+    color: #66ccff;
+    font-weight: bold;
+    font: 40px Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-weight: lighter;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.border {
+    position: relative;
+    top: 50px;
+    left: 290px;
+}
+
+
+
+.space {
+    margin: 47%;
+}
+
+.divide {
+    position: relative;
+    top: 50px;
+    left: 290px;
+}
+
+.describe {
+    padding-top: 190px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.tab {
+    margin-left: 20px;
+}
+
+.dave {
+   text-align: center;
+   margin: 0 auto;
+   width: 100px;
+}
+
+.dan {
+   padding-bottom:40px;
+   position: fixed;
+}
+
+a {
+    text-align: center;
+    display: block;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
